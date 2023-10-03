@@ -8,4 +8,7 @@ body{
     p {
         color:darkslategray;
     }
-    
+
+    #imagem1 {
+        width: 400px;
+    }
